@@ -1,1 +1,3 @@
-# snake-game
+# Snake Game
+
+Snake game using ScalaFX
